@@ -3,8 +3,9 @@
 int sum(int sumInput)
 {
   int total = 0;
+  
 
-  for(int i=1;i<sumInput;i++)
+  for(int i=0;i<sumInput+1;i++)
     {
       total+=i;
     }
