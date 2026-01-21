@@ -1,0 +1,5 @@
+# Ignore binaries and emacs backups
+
+main
+*.o
+*~
